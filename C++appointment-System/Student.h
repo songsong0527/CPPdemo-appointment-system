@@ -22,4 +22,5 @@ public:
 	// 取消预约
 	void CancelOrder();
 	//学生属性
+	int m_StudentID;
 };
